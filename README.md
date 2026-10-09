@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Mobile Engineer · Android Native (Kotlin, Jetpack Compose) & React Native (TypeScript, Expo)<br/>
-  Clean Architecture · Performance · 4+ years shipping production apps
+  Clean Architecture · Performance · ~4 years shipping production apps
 </h3>
 
 <p align="center">
