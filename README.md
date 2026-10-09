@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bassamkhafagy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="mailto:bassamkhafgy127@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://bento.me/bassam-khafagy"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=bento&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bassam-khafagy127.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=bento&logoColor=white" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Giza,_Egypt-Open_to_remote_%2F_relocation-2E7D32?style=for-the-badge" alt="Location"/>
 </p>
 
